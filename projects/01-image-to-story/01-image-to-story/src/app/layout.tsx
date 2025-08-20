@@ -12,9 +12,12 @@ export const metadata: Metadata = {
   description: "Transform any image into a captivating story with AI. Upload, paste, or explore our gallery to begin your creative journey.",
   keywords: ["AI", "story generation", "creative writing", "image analysis", "storytelling"],
   icons: {
-    icon: '/favicon.ico',
+    icon: [
+      { url: '/favicon.svg', type: 'image/svg+xml' },
+      { url: '/favicon.ico', type: 'image/x-icon' }
+    ],
     shortcut: '/favicon.ico',
-    apple: '/favicon.ico',
+    apple: '/favicon.svg',
   },
 };
 
@@ -32,4 +35,4 @@ export default function RootLayout({
       </body>
     </html>
   );
-}
+} 
