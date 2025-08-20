@@ -83,7 +83,7 @@ export default function ImageInput({ onImageSelect }: ImageInputProps) {
         ].map(({ id, label, icon: Icon }) => (
           <button
             key={id}
-            onClick={() => setActiveTab(id as any)}
+            onClick={() => setActiveTab(id as 'upload' | 'url' | 'gallery')}
             className={`flex-1 flex items-center justify-center gap-2 py-3 px-4 rounded-lg font-medium transition-all ${
               activeTab === id
                 ? 'bg-white text-gray-900 shadow-sm'

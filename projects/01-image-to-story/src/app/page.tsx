@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import ImageInput from '@/components/ImageInput';
 import StoryControls from '@/components/StoryControls';
 import ImagePreview from '@/components/ImagePreview';
@@ -19,7 +19,7 @@ export default function Home() {
   const [imageSource, setImageSource] = useState<'upload' | 'url' | 'gallery' | null>(null);
   const [story, setStory] = useState<string | null>(null);
   const [isGenerating, setIsGenerating] = useState(false);
-  const [isClient, setIsClient] = useState(false);
+
   const [storySettings, setStorySettings] = useState<StorySettings>({
     style: 'Literary',
     tone: 'Neutral',
@@ -27,9 +27,7 @@ export default function Home() {
     hints: ''
   });
 
-  useEffect(() => {
-    setIsClient(true);
-  }, []);
+
 
   const handleImageSelect = (imageUrl: string, source: 'upload' | 'url' | 'gallery') => {
     setSelectedImage(imageUrl);

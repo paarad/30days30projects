@@ -7,7 +7,7 @@ const openai = new OpenAI({
 
 export async function POST(request: NextRequest) {
   try {
-    const { imageUrl, imageSource, settings } = await request.json();
+    const { imageUrl, settings } = await request.json();
 
     if (!imageUrl) {
       return NextResponse.json({ error: 'Image URL is required' }, { status: 400 });

@@ -57,7 +57,7 @@ export default function StoryDisplay({ story, isGenerating, settings }: StoryDis
           <BookOpen className="w-12 h-12 text-gray-300 mx-auto mb-4" />
           <p className="text-gray-500 text-lg font-medium mb-2">Your story will appear here</p>
           <p className="text-gray-400 text-sm">
-            Select an image and click "Generate Story" to begin
+            Select an image and click &quot;Generate Story&quot; to begin
           </p>
         </div>
       </div>
