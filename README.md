@@ -10,12 +10,12 @@ Each project is a small app (5–9h build) using different AI APIs (images, audi
 3. Rename and commit when done: `git mv projects/_wip-your-project projects/02-your-slug`
 4. Update the index table and push -->
 
-## Index
+<!-- ## Index
 Add rows as you ship projects.
 
 | Day | Project | Category | README | Demo | Difficulty |
 |-----|---------|----------|--------|------|------------|
-| 01  | — | — | — | — | — |
+| 01  | — | — | — | — | — | -->
 
 <!-- ## Quickstart
 ```bash
@@ -40,9 +40,9 @@ cd ai-30-days
 SECRETS.md                  # how to manage keys
 ``` -->
 
----
+<!-- ---
 
-## GitHub
+## GitHub -->
 <!-- 
 [![GitHub stars](https://img.shields.io/github/stars/adrienduval/30days30projects?style=social)](https://github.com/adrienduval/30days30projects/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/adrienduval/30days30projects?style=social)](https://github.com/adrienduval/30days30projects/network/members)
