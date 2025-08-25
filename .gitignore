@@ -8,3 +8,4 @@ __pycache__
 projects/_wip-*/
 templates
 scripts
+.DS_Store
