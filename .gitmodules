@@ -6,3 +6,7 @@
 	path = projects/02-market-sentiment-feed
 	url = git@github.com:paarad/02-market-sentiment-feed.git
 	branch = main
+[submodule "projects/03-coincerto"]
+	path = projects/03-coincerto
+	url = git@github.com:paarad/03-coincerto.git
+	branch = main
