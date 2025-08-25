@@ -14,3 +14,7 @@
 	path = projects/04-dao-proposal-tldr
 	url = git@github.com:paarad/04-dao-proposal-tldr.git
 	branch = main
+[submodule "projects/05-PFPmask"]
+	path = projects/05-PFPmask
+	url = git@github.com:paarad/05-PFPmask.git
+	branch = main
