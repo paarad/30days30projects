@@ -10,3 +10,7 @@
 	path = projects/03-coincerto
 	url = git@github.com:paarad/03-coincerto.git
 	branch = main
+[submodule "projects/04-dao-proposal-tldr"]
+	path = projects/04-dao-proposal-tldr
+	url = git@github.com:paarad/04-dao-proposal-tldr.git
+	branch = main
