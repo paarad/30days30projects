@@ -18,3 +18,7 @@
 	path = projects/05-PFPmask
 	url = git@github.com:paarad/05-PFPmask.git
 	branch = main
+[submodule "projects/06-jeandelafontaine"]
+	path = projects/06-jeandelafontaine
+	url = git@github.com:paarad/06-jeandelafontaine.git
+	branch = main
