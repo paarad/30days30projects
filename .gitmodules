@@ -2,3 +2,7 @@
 	path = projects/01-image-to-story
 	url = git@github.com:paarad/01-image-to-story.git
 	branch = main
+[submodule "projects/02-market-sentiment-feed"]
+	path = projects/02-market-sentiment-feed
+	url = git@github.com:paarad/02-market-sentiment-feed.git
+	branch = main
