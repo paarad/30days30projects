@@ -1,0 +1,4 @@
+[submodule "projects/01-image-to-story"]
+	path = projects/01-image-to-story
+	url = git@github.com:paarad/01-image-to-story.git
+	branch = main
