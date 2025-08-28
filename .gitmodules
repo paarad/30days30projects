@@ -26,3 +26,7 @@
 	path = projects/07-deadticker
 	url = git@github.com:paarad/07-deadticker.git
 	branch = main
+[submodule "projects/08-hopium-calculator"]
+	path = projects/08-hopium-calculator
+	url = git@github.com:paarad/08-hopium-calculator.git
+	branch = main
