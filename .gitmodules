@@ -22,3 +22,7 @@
 	path = projects/06-jeandelafontaine
 	url = git@github.com:paarad/06-jeandelafontaine.git
 	branch = main
+[submodule "projects/07-deadticker"]
+	path = projects/07-deadticker
+	url = git@github.com:paarad/07-deadticker.git
+	branch = main
