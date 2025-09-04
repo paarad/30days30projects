@@ -34,3 +34,7 @@
 	path = projects/09-PFP-masquerade
 	url = git@github.com:paarad/09-PFP-masquerade.git
 	branch = main
+[submodule "projects/10-cope-station"]
+	path = projects/10-cope-station
+	url = git@github.com:paarad/10-cope-station.git
+	branch = master
