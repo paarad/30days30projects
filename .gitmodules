@@ -46,3 +46,7 @@
 	path = projects/13-brandkit
 	url = git@github.com:paarad/13-brandkit.git
 	branch = main
+[submodule "projects/14-genframes"]
+	path = projects/14-genframes
+	url = git@github.com:paarad/14-genframes.git
+	branch = main
