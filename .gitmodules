@@ -50,3 +50,7 @@
 	path = projects/14-genframes
 	url = git@github.com:paarad/14-genframes.git
 	branch = main
+[submodule "projects/12-shillgospel"]
+	path = projects/12-shillgospel
+	url = git@github.com:paarad/12-shill-gospel.git
+	branch = main
