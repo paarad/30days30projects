@@ -30,3 +30,7 @@
 	path = projects/08-hopium-calculator
 	url = git@github.com:paarad/08-hopium-calculator.git
 	branch = main
+[submodule "projects/09-PFP-masquerade"]
+	path = projects/09-PFP-masquerade
+	url = git@github.com:paarad/09-PFP-masquerade.git
+	branch = main
