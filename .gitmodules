@@ -38,3 +38,7 @@
 	path = projects/10-cope-station
 	url = git@github.com:paarad/10-cope-station.git
 	branch = master
+[submodule "projects/11-autoflex"]
+	path = projects/11-autoflex
+	url = git@github.com:paarad/11-autoflex.git
+	branch = main
