@@ -42,3 +42,7 @@
 	path = projects/11-autoflex
 	url = git@github.com:paarad/11-autoflex.git
 	branch = main
+[submodule "projects/13-brandkit"]
+	path = projects/13-brandkit
+	url = git@github.com:paarad/13-brandkit.git
+	branch = main
