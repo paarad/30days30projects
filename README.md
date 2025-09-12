@@ -4,6 +4,23 @@
 This repo is my personal challenge: **30 days, 30 AI projects**.  
 Each project is a small app (5–9h build) using different AI APIs (images, audio, video, LLMs, crypto, games…).
 
+## Challenge goals
+
+> AI is changing the world. I’m a dev who’s never touched an AI API.
+>
+> It’s time to change that. 30 days. 30 AI projects.
+> Starting from zero. Just code, chaos & AI.
+>
+> Starting Aug 20 — #30DaysAIChallenge
+
+Goals:
+- Ship every project, no excuses.
+- Learn fast and explore everything: images, video, audio, LLMs, crypto, games
+
+## Glossary of all demos
+
+Explore every shipped project and live demo here: [glossary30projects.paarad.org](https://glossary30projects.paarad.org/)
+
 <!-- ## Daily workflow
 1. Create a WIP folder (ignored by git): `projects/_wip-your-project`
 2. Build locally until it's ready
